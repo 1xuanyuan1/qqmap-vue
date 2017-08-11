@@ -1,0 +1,16 @@
+{
+  "name": "qqmap-vue",
+  "version": "0.0.1",
+  "description": "腾讯地图 vue版",
+  "main": "index.vue",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1xuanyuan1/qqmap-vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1xuanyuan1/qqmap-vue/issues"
+  },
+  "homepage": "https://github.com/1xuanyuan1/qqmap-vue#readme"
+}
